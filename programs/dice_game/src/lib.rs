@@ -27,3 +27,6 @@ pub mod dice_game {
         Ok(())
     }
 }
+//Program Id: 7rGx6hz5rsMZt2d9XjKgKsAZpVkMa21eYmb5Bsj8s5Bb                                                                
+//Signature: 4fVmysDV9WTy16gGkHqU5jRbArN8pkbfBzfdxABygtHveTigSYZWzP87RVLxFFAMTcTSpZJ9V5JcHwoCeU6MAZ7d
+
